@@ -4,3 +4,12 @@
 [submodule "robosuite"]
 	path = robosuite
 	url = https://github.com/ARISE-Initiative/robosuite.git
+	branch = b9d8d3de5e3dfd1724f4a0e6555246c460407daa
+[submodule "robomimic"]
+	path = robomimic
+	url = https://github.com/ARISE-Initiative/robomimic.git
+	branch = master
+[submodule "egl_probe"]
+	path = egl_probe
+	url = https://github.com/tomputer-g/egl_probe.git
+	branch = master
